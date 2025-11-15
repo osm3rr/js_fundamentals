@@ -5,7 +5,7 @@
 // (e.g., userName, shoppingCart, firstName).
 
 // Valid and good practice
-let userName = "Petra";
+const userName = "Petra";
 const MAX_ATTEMPTS = 3;
 let isLoggedIn = true;
 let productPrice = 19.99;
